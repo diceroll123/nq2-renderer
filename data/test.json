@@ -1,0 +1,19 @@
+{
+    "border": "g",
+    "default": "g",
+    "tiles": {
+        "t": "forg",
+        "g": "grs"
+    },
+    "layers": [
+        [
+            "                           ",
+            "  t   t ttttt ttttt ttttt  ",
+            "   t t  t     t       t    ",
+            "    t   ttttt ttttt   t    ",
+            "    t   t     t       t    ",
+            "    t   ttttt ttttt   t    ",
+            "                           "
+        ]
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "border": "g",
+    "default": "g",
+    "tiles": {
+        "w": "wtr",
+        "g": "grs"
+    },
+    "layers": [
+        [
+            "                           ",
+            "  w   w wwwww wwwww wwwww  ",
+            "   w w  w     w       w    ",
+            "    w   wwwww wwwww   w    ",
+            "    w   w     w       w    ",
+            "    w   wwwww wwwww   w    ",
+            "                           "
+        ]
+    ]
+}
